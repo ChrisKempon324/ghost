@@ -1,0 +1,4 @@
+ghost
+=====
+
+test blog
