@@ -1,4 +1,4 @@
 ghost
 =====
 
-test blog
+github 开发使用
